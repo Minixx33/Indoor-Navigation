@@ -1,0 +1,4 @@
+repository "Indoor Navigation@AUS_Senior_Group7@cloud"
+  path "/"
+    br "/main"
+    co "/main"
